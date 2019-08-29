@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download a more complete PDF here](mrheffernan.github.io/files/Heffernan_Matthew_CV.pdf)
+[Download a more complete PDF here](http://mrhheffernan.github.io/files/Heffernan_Matthew_CV.pdf)
 
 Education
 ======
@@ -17,17 +17,19 @@ Education
 * M.Sc. in Physics, McGill University, 2018
 * Ph.D. in Theoretical Nuclear Physics, McGill University, 2022 (expected)
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Graduate Research Assistant** - *McGill University* (2016-Present)  
+  * Graduate Research Assistant in the Nuclear Theory group under the direction of Charles Gale studying relativistic heavy-ion collisions.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Undergraduate Student Researcher** - *The College of William & Mary* (2013-2016)  
+  * Undergraduate honors thesis using computational methods (Python, Fortran) to probe Big Bang Nucleosynthesis for limits on Beyond Standard Model physics. This work was performed under the direction of [Andre Walker-Loud](http://ntc0.lbl.gov/~walkloud/).
+
+* **Stirling Cycle Analyst for Nuclear Space Power Applications** - *NASA Glenn Research Center* (2015)  
+  * LERCIP Intern with the Thermal Energy Conversion Branch working to improve model fidelity and performing simulations for the Test Demonstration Unit (TDU) for the pre-testing Test Readiness Review. Additional work was done to optimize Stirling engines to map power density-efficiency space and customize the piston-displacer waveform. Future applications of this work include deep space and space exploration applications as passive power units
+
+* **REU Student** - *Texas A&M University and Cyclotron Institute* (2014)  
+  * National Science Foundation (US)-funded studentship under Ralf Rapp studying hot and dense hadronic matter, resulting in a state-of-the-art parametrization of thermal photon production in hadronic matter.
 
 Skills
 ======
