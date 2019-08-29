@@ -27,9 +27,17 @@ I am partially supported at McGill as a Graduate Teaching Assistant. Previously,
 
 Research Experience
 ======
+**Graduate Research Assistant** - *McGill University* (2016-Present)
+Graduate Research Assistant in the Nuclear Theory group under the direction of Charles Gale studying relativistic heavy-ion collisions.
 
+**Undergraduate Student Researcher** - *The College of William & Mary* (2013-2016)
+Undergraduate honors thesis using computational methods (Python, Fortran) to probe Big Bang Nucleosynthesis for limits on Beyond Standard Model physics. This work was performed under the direction of [Andre Walker-Loud](http://ntc0.lbl.gov/~walkloud/).
 
+**Stirling Cycle Analyst for Nuclear Space Power Applications** - *NASA Glenn Research Center* (2015)
+LERCIP Intern with the Thermal Energy Conversion Branch working to improve model fidelity and performing simulations for the Test Demonstration Unit (TDU) for the pre-testing Test Readiness Review. Additional work was done to optimize Stirling engines to map power density-efficiency space and customize the piston-displacer waveform. Future applications of this work include deep space and space exploration applications as passive power units
 
+**REU Student** - *Texas A&M University and Cyclotron Institute*
+National Science Foundation (US)-funded studentship under Ralf Rapp studying hot and dense hadronic matter, resulting in a state-of-the-art parametrization of thermal photon production in hadronic matter.
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
