@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+[Download a more complete PDF here](mrheffernan.github.io/files/Heffernan_Matthew_CV.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc.(Hons.) in Physics, The College of William & Mary, 2016
+* M.Sc. in Physics, McGill University, 2018
+* Ph.D. in Theoretical Nuclear Physics, McGill University, 2022 (expected)
 
 Work experience
 ======
@@ -26,34 +28,54 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python (2 and 3)
+    * Packages include: Pandas, numpy, scipy, matplotlib, joblib, docopt, vegas, uncertainties, openCV, flask, sqlalchemy, selenium
+    * Additional certifications: [Udemy Python course](https://www.udemy.com/certificate/UC-96FGTLHB/)
+  * Optimization and parallelization
+  * MATLAB
+* Version control
+  * [GitHub](github.com/mrhheffernan) and Bitbucket
+  * Mercurial
+* LaTeX
+* Wolfram Mathematica
+* Linux/Unix operating systems, clusters, distributed computing (slurm, PBS)
+* Doxygen documentation
+* Markdown
+* Teaching
+  * Pedagogical development for flipping a premier introductory physics course at McGill
+  * Lab report and exam marking
+  * Preparing tutorials
+  * Leading student help sessions
+
+Languages
+======
+* English
+* Farsi
+* German (Intermediate working fluency)
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Organizing Committee Member, McGill Physics Hackathon (2018-Present)
+* VP Communications, McGill Graduate Association of Physics Students (2017-2019)
