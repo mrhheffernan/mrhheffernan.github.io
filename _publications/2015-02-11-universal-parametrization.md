@@ -1,7 +1,7 @@
 ---
 title: "Universal parametrization of thermal photon rates in hadronic matter"
 collection: publications
-permalink: /publication/2015-02-11-universal-parametrization.md
+permalink: /publication/2015-02-11-universal-parametrization
 excerpt: 'A parametrization of thermal photon rates from in-medium rho mesons, pions, and bremsstrahlung.'
 date: 2015-02-11
 venue: 'Physical Review C'
