@@ -1,7 +1,7 @@
 ---
-title: "Research item number 1"
-excerpt: "Short description of research item number 1<br/><img src='/images/500x300.png'>"
+title: "Universal Parametrization of Thermal Photon Production in Hadronic Matter "
+excerpt: "Parametrizing thermal photons in hadronic matter to unprecedented accuracy<br/><img src='/images/univparam.png'>"
 collection: research
 ---
 
-This is an item in your research. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The product of a summer REU at Texas A&M, my project was to expand existing parametrization procedures to improve accuracy and applicability. The project improved upon all other parametrizations and included nonzero baryochemical potential for the first time.
