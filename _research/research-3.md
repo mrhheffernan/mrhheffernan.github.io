@@ -1,7 +1,10 @@
 ---
-title: "Quantifying the sensitivity of Big Bang Nucleosynthesis to isospin breaking with input from lattice QCD"
-excerpt: "Testing for beyond-Standard Model physics with BBN as a constraint for variation in fundamental constants.<br/><img src='/images/contour.png'>"
+title: "Hadronic transport coefficients from the linear sigma model at finite temperature"
+excerpt: "Extend calculational frameworks for the calculation of transport coefficients in high-temperature gases."
 collection: research
 ---
 
-An undergraduate research project undertaken under the direction of Andre Walker-Loud at the College of William and Mary in Virginia.
+M.Sc. work at McGill to extend existing frameworks for calculating transport coefficients in high temperature gauge theories for application in progressively more realistic quasiparticle gases. This work demonstrated the new technique as well as relevant features and phenomenological expectations.
+
+
+[View the paper on INSPIRE](https://inspirehep.net/literature/1797838)
