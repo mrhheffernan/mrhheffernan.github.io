@@ -20,7 +20,7 @@ Education
 Research Experience
 ======
 * **Graduate Research Assistant** - *McGill University* (2016-Present)  
-  * Graduate Research Assistant in the Nuclear Theory group under the direction of Charles Gale studying relativistic heavy-ion collisions.
+  * Quantifying the properties of quark-gluon plasma using state-of-the-art physical models with Bayesian inference for the first time. My current work focuses on using the best available models of heavy ion collisions, combined with methodological improvements to the Bayesian inference used in the field. Additional time is spent as a member of the [JETSCAPE Collaboration's](http://jetscape.org/) Simulations and Distributed Computing Working Group.
 
 * **Undergraduate Student Researcher** - *The College of William & Mary* (2013-2016)  
   * Undergraduate honors thesis using computational methods (Python, Fortran) to probe Big Bang Nucleosynthesis for limits on Beyond Standard Model physics. This work was performed under the direction of [Andre Walker-Loud](http://ntc0.lbl.gov/~walkloud/).
@@ -37,14 +37,13 @@ Skills
   * Python (2 and 3)
     * Packages include: Pandas, numpy, scipy, matplotlib, joblib, docopt, vegas, uncertainties, openCV, flask, sqlalchemy, selenium
     * Additional certifications: [Udemy Python course](https://www.udemy.com/certificate/UC-96FGTLHB/)
-  * Optimization and parallelization
   * MATLAB
 * Version control
   * [GitHub](github.com/mrhheffernan) and Bitbucket
   * Mercurial
 * LaTeX
+* Linux/Unix operating systems, clusters, distributed computing (Slurm, PBS, GNU Parallel)
 * Wolfram Mathematica
-* Linux/Unix operating systems, clusters, distributed computing (slurm, PBS)
 * Doxygen documentation
 * Markdown
 * Teaching
