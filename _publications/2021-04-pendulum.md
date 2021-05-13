@@ -3,7 +3,7 @@ title: "How about that Bayes: Bayesian techniques and the simple pendulum"
 collection: publications
 permalink: /publication/2021-04-pendulum.md
 excerpt: 'I demonstrate the use of Bayesian techniques in providing data-driven guidance to teaching laboratories with a tutorial focused on the simple pendulum.'
-date: 2020-09-18
+date: 2021-04-17
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2104.08621.pdf'
 citation: 'M. Heffernan (2021). &quot;How about that Bayes: Bayesian techniques and the simple pendulum.&quot; <i>arXiv preprint</i> 2104.08621'
