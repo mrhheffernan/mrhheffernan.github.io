@@ -12,9 +12,7 @@ I am a Ph.D. student at the Physics Department of McGill University in the Nucle
 
 I am also an organizing committee member of the [McGill Physics Hackathon](http://www.physics.mcgill.ca/hackathon/) and a former VP Communications of the McGill Graduate Association of Physics Students.
 
-When I get the chance, I enjoy working on various side projects, marathon and ultra-running, skating, and looking for opportunities to go hiking. I also played on one of the departmental intramural hockey teams, the Absolute Zeroes, prior to its disbanding. I am also a violist, having performed as a soloist, member of a small ensemble, and of orchestras in both Scotland and the United States. This musical work involved the east coast premiere of a new work by Mark O'Connor: [W&M's Gallery Players present Elevations for String Orchestra by Mark O'Connor; First Movement](https://www.youtube.com/watch?v=LiyDXNJtLfc) .
-
-[I additionally spend arguably too much time reading Wikipedia articles; one of my favorites is on the [Habeas Corpus Act 1679](https://en.wikipedia.org/wiki/Habeas_Corpus_Act_1679).]:<>
+When I get the chance, I enjoy working on various side projects, marathon and ultra-running, skating, and looking for opportunities to go hiking. I also played on one of the departmental intramural hockey teams, the Absolute Zeroes, prior to its disbanding. I am also a violist, having performed as a soloist, member of a small ensemble, and of orchestras in both Scotland and the United States. This musical work involved the east coast premiere of a new work by Mark O'Connor: [W&M's Gallery Players present Elevations for String Orchestra by Mark O'Connor; First Movement](https://www.youtube.com/watch?v=LiyDXNJtLfc).
 
 Research
 ======
@@ -30,7 +28,7 @@ I am supported by a PGS-D Scholarship from the Natural Sciences and Engineering 
 Research Experience
 ======
 **Graduate Research Assistant** - *McGill University* (2016-Present)  
-Quantifying the properties of quark-gluon plasma using state-of-the-art physical models with Bayesian inference for the first time. My current work focuses on using the best available models of heavy ion collisions, combined with methodological improvements to the Bayesian inference used in the field. Additional time is spent as a member of the [JETSCAPE Collaboration's](http://jetscape.org/) Simulations and Distributed Computing Working Group. 
+Quantifying the properties of quark-gluon plasma using state-of-the-art physical models with Bayesian inference for the first time. My current work focuses on using the best available models of heavy ion collisions, combined with methodological improvements to the Bayesian inference used in the field. Additional time is spent as a member of the [JETSCAPE Collaboration's](http://jetscape.org/) Simulations and Distributed Computing Working Group.
 
 **Undergraduate Student Researcher** - *The College of William & Mary* (2013-2016)  
 Undergraduate honors thesis using computational methods (Python, Fortran) to probe Big Bang Nucleosynthesis for limits on Beyond Standard Model physics. This work was performed under the direction of [Andre Walker-Loud](http://ntc0.lbl.gov/~walkloud/).
