@@ -11,16 +11,20 @@ redirect_from:
 
 [Download a more complete PDF here](http://mrhheffernan.github.io/files/Heffernan_Matthew_CV.pdf)
 
+Professional Experience 
+======
+* AI Verification Engineer, Zoox (2022-Present): Working at the interface of Applied Research and Software Engineering
+
 Education
 ======
-* B.Sc.(Hons.) in Physics, The College of William & Mary, 2016
+* Ph.D. in Theoretical Nuclear Physics, McGill University, 2022
 * M.Sc. in Physics, McGill University, 2018
-* Ph.D. in Theoretical Nuclear Physics, McGill University, 2022 (expected)
+* B.Sc.(Hons.) in Physics, The College of William & Mary, 2016
 
 Research Experience
 ======
-* **Graduate Research Assistant** - *McGill University* (2016-Present)  
-  * Quantifying the properties of quark-gluon plasma using state-of-the-art physical models with Bayesian inference for the first time. My current work focuses on using the best available models of heavy ion collisions, combined with methodological improvements to the Bayesian inference used in the field. Additional time is spent as a member of the [JETSCAPE Collaboration's](http://jetscape.org/) Simulations and Distributed Computing Working Group.
+* **Graduate Research Assistant** - *McGill University* (2016-2022)  
+  * Quantifying the properties of quark-gluon plasma using state-of-the-art physical models with Bayesian inference for the first time. My PhD work focused on using the best available models of heavy ion collisions, combined with methodological improvements to the Bayesian inference used in the field. Additional time is spent as a member of the [JETSCAPE Collaboration's](http://jetscape.org/) Simulations and Distributed Computing Working Group.
 
 * **Undergraduate Student Researcher** - *The College of William & Mary* (2013-2016)  
   * Undergraduate honors thesis using computational methods (Python, Fortran) to probe Big Bang Nucleosynthesis for limits on Beyond Standard Model physics. This work was performed under the direction of [Andre Walker-Loud](http://ntc0.lbl.gov/~walkloud/).
@@ -34,13 +38,14 @@ Research Experience
 Skills
 ======
 * Programming
-  * Python (2 and 3)
-    * Packages include: Pandas, numpy, scipy, matplotlib, joblib, docopt, vegas, uncertainties, openCV, flask, sqlalchemy, selenium
+  * Python
+    * Packages include: pandas, sklearn, numpy, scipy, matplotlib, seaborn, joblib, docopt, vegas, uncertainties, flask, sqlalchemy, selenium
     * Additional certifications: [Udemy Python course](https://www.udemy.com/certificate/UC-96FGTLHB/)
-  * MATLAB
+  * Bazel
+  * Code review
+  * Data visualization
 * Version control
   * [GitHub](github.com/mrhheffernan) and Bitbucket
-  * Mercurial
 * LaTeX
 * Linux/Unix operating systems, clusters, distributed computing (Slurm, PBS, GNU Parallel)
 * Wolfram Mathematica
@@ -56,7 +61,7 @@ Languages
 ======
 * English
 * Farsi
-* German (Intermediate working fluency)
+* German (Intermediate working fluency, but rusty)
 
 Publications
 ======
@@ -78,5 +83,5 @@ Teaching
 
 Service and leadership
 ======
-* Organizing Committee Member, McGill Physics Hackathon (2018-Present)
+* Organizing Committee Member, McGill Physics Hackathon (2018-2022)
 * VP Communications, McGill Graduate Association of Physics Students (2017-2019)
