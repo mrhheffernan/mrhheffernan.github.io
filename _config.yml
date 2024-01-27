@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Matthew Heffernan"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Nuclear Theory at McGill University"
-  location         : "Montreal, Canada"
-  employer         : "McGill University"
+  bio              : "AI Verification at Zoox, PhD in Nuclear Theory from McGill University. Focus on statistical methods for efficient large scale evaluation."
+  location         : "San Francisco, CA"
+  employer         : "Zoox, Inc."
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=cYVEweEAAAAJ"
   email            : heffernan[at]physics[dot]mcgill[dot]ca
