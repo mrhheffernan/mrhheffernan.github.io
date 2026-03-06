@@ -13,18 +13,26 @@ redirect_from:
 
 Professional Experience 
 ======
-* AI Verification Engineer, Zoox (2022-Present): Working at the interface of Applied Research and Software Engineering
+* **AI Verification Engineer (Data Scientist + Software Engineer)** - *Zoox* (2022-Present)
+  * Conducted applied research on a methods team, developing and deploying novel black-box safety quantification techniques for the AI driving stack. Built tools, automated processes, and data products using Python, Databricks, and PySpark to support autonomous driving evaluation, contributing to 9 patent applications (2 granted)
+  * Designed a data-collection strategy, developed fleet simulations, and built a test asset orchestration system that enabled scaling and release of the Zoox service to the public. Drove continuous improvements resulting in over 99% uptime
+  * Decomposed complex problems into known statistical problems, developed prototypes, and deployed tooling to orchestrate the test vehicle fleet and deliver $25M+ of log data for safety validation and AI development
 
 Education
-======
-* Ph.D. in Theoretical Nuclear Physics, McGill University, 2022
-* M.Sc. in Physics, McGill University, 2018
-* B.Sc.(Hons.) in Physics, The College of William & Mary, 2016
+=====
+* Ph.D. in Physics - *McGill University* (2022)  
+  * Thesis: "Quantification of the Quark-Gluon Plasma with Statistical Learning"
+* M.Sc. in Physics - *McGill University* (2018)
+* B.Sc.(Hons.) in Physics, German Studies minor - *The College of William & Mary* (2016)
 
 Research Experience
 ======
 * **Graduate Research Assistant** - *McGill University* (2016-2022)  
-  * Quantifying the properties of quark-gluon plasma using state-of-the-art physical models with Bayesian inference for the first time. My PhD work focused on using the best available models of heavy ion collisions, combined with methodological improvements to the Bayesian inference used in the field. Additional time is spent as a member of the [JETSCAPE Collaboration's](http://jetscape.org/) Simulations and Distributed Computing Working Group.
+  * Trained, validated, and deployed models for dimensionality reduction, regression, and statistical inference on several hundred gigabytes of high-dimensional data
+  * Improved computational study design performance by over 50% for model prediction, sensitivity analysis, and uncertainty quantification using advanced statistical algorithms for design spaces robust to inactive dimensions
+  * Executed and managed 1,000,000+ simulations and 500+ CPU years of computing resources valued at over $70,000 at national High Performance Computing facilities
+  * Developed, validated, and automated C++ and Python scientific-computing tools for data analysis, streamlining the workflow and reducing manual job orchestration
+  * Contributed to developing and validating statistical analysis for the most advanced C++ framework of a sophisticated nuclear physics environment (jetscape.org)
 
 * **Undergraduate Student Researcher** - *The College of William & Mary* (2013-2016)  
   * Undergraduate honors thesis using computational methods (Python, Fortran) to probe Big Bang Nucleosynthesis for limits on Beyond Standard Model physics. This work was performed under the direction of [Andre Walker-Loud](http://ntc0.lbl.gov/~walkloud/).
@@ -36,31 +44,33 @@ Research Experience
   * National Science Foundation (US)-funded studentship under Ralf Rapp studying hot and dense hadronic matter, resulting in a state-of-the-art parametrization of thermal photon production in hadronic matter.
 
 Skills
-======
-* Programming
-  * Python
-    * Packages include: pandas, sklearn, numpy, scipy, matplotlib, seaborn, joblib, docopt, vegas, uncertainties, flask, sqlalchemy, selenium
-    * Additional certifications: [Udemy Python course](https://www.udemy.com/certificate/UC-96FGTLHB/)
-  * Bazel
-  * Code review
-  * Data visualization
-* Version control
-  * [GitHub](github.com/mrhheffernan)
-* LaTeX
-* Linux/Unix operating systems, clusters, distributed computing (Slurm, PBS, GNU Parallel)
-* Wolfram Mathematica
-* Markdown
-* Teaching
-  * Pedagogical development for flipping a premier introductory physics course at McGill
-  * Lab report and exam marking
-  * Preparing tutorials
-  * Leading student help sessions
-
-Languages
-======
-* English
-* Farsi
-* German (Intermediate working fluency, but rusty)
+=====
+* **Probability & Statistics**  
+  * Bayesian inference, Uncertainty quantification, Experimental design, Sensitivity analysis
+* **Research**  
+  * Design of Experiments, Statistical modeling, Data Science, Data visualization, Scientific computing
+* **Programming**  
+  * Python, Bash, Linux/Unix
+  * Developing: SQL, Rust  
+  * Author of the open source [maxpro](https://github.com/mrhheffernan/maxpro) [Rust crate](https://crates.io/crates/maxpro) and [Python package](https://pypi.org/project/maxpro/)
+  * Other: Code review, Software testing, LaTeX, Markdown
+* **Tools**  
+  * Data Science
+    * Databricks, PySpark
+    * scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn, SQLAlchemy, SALib
+    * MCMC
+  * Software
+    * Git, GitHub, GitHub Actions
+    * Jupyter, Bazel, Airflow, Slurm
+    * PyO3, Rayon
+    * Wolfram Mathematica
+    * Flask, FastAPI
+* **Teaching**
+  ** Teaching
+    * Pedagogical development for flipping a premier introductory physics course at McGill
+    * Lab report and exam marking
+    * Preparing tutorials
+    * Leading student help sessions
 
 Publications
 ======
