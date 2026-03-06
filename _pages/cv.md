@@ -15,11 +15,11 @@ Education
 ======
 * B.Sc.(Hons.) in Physics, The College of William & Mary, 2016
 * M.Sc. in Physics, McGill University, 2018
-* Ph.D. in Theoretical Nuclear Physics, McGill University, 2022 (expected)
+* Ph.D. in Theoretical Nuclear Physics, McGill University, 2022
 
 Research Experience
 ======
-* **Graduate Research Assistant** - *McGill University* (2016-Present)  
+* **Graduate Research Assistant** - *McGill University* (2016-2022)  
   * Quantifying the properties of quark-gluon plasma using state-of-the-art physical models with Bayesian inference for the first time. My current work focuses on using the best available models of heavy ion collisions, combined with methodological improvements to the Bayesian inference used in the field. Additional time is spent as a member of the [JETSCAPE Collaboration's](http://jetscape.org/) Simulations and Distributed Computing Working Group.
 
 * **Undergraduate Student Researcher** - *The College of William & Mary* (2013-2016)  
@@ -34,17 +34,15 @@ Research Experience
 Skills
 ======
 * Programming
-  * Python (2 and 3)
-    * Packages include: Pandas, numpy, scipy, matplotlib, joblib, docopt, vegas, uncertainties, openCV, flask, sqlalchemy, selenium
+  * Python
+    * Packages include: Pandas, numpy, scipy, matplotlib, joblib, docopt, vegas, uncertainties, flask, sqlalchemy, selenium
     * Additional certifications: [Udemy Python course](https://www.udemy.com/certificate/UC-96FGTLHB/)
   * MATLAB
 * Version control
-  * [GitHub](github.com/mrhheffernan) and Bitbucket
-  * Mercurial
+  * [GitHub](github.com/mrhheffernan)
 * LaTeX
 * Linux/Unix operating systems, clusters, distributed computing (Slurm, PBS, GNU Parallel)
 * Wolfram Mathematica
-* Doxygen documentation
 * Markdown
 * Teaching
   * Pedagogical development for flipping a premier introductory physics course at McGill
@@ -56,23 +54,23 @@ Languages
 ======
 * English
 * Farsi
-* German (Intermediate working fluency)
+* German (Elementary)
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
