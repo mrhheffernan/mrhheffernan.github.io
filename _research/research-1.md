@@ -1,6 +1,6 @@
 ---
 title: "Bayesian inference in hybrid models of Heavy Ion Collisions"
-excerpt: "Continuing to develop the nascent field of Bayesian analysis in high-energy nuclear theory."
+excerpt: "Developed the nascent field of Bayesian analysis in high-energy nuclear theory."
 collection: research
 ---
 
