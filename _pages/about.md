@@ -17,7 +17,7 @@ When I get the chance, I enjoy working on various side projects, marathon and ul
 Research
 ======
 
-I earned my PhDq in the Nuclear Theory group at McGill under the supervision of [Charles Gale](http://www.physics.mcgill.ca/~gale/Charles_Gale/Charles_Gale.html). We worked on uncertainty quantification and Bayesian inference using state-of-the-art numerical models of hot and dense strongly-interacting matter. Bayesian techniques are increasingly employed in heavy ion collisions and we provided the most realistic quantification of the properties of strongly-interacting matter with their corresponding uncertainty.
+I earned my PhD in the Nuclear Theory group at McGill under the supervision of [Charles Gale](http://www.physics.mcgill.ca/~gale/Charles_Gale/Charles_Gale.html). We worked on uncertainty quantification and Bayesian inference using state-of-the-art numerical models of hot and dense strongly-interacting matter. Bayesian techniques are increasingly employed in heavy ion collisions and we provided the most realistic quantification of the properties of strongly-interacting matter with their corresponding uncertainty.
 
 *What is strongly-interacting matter?* Strongly-interacting matter (also known as Quark-Gluon Plasma in our use) is a phase of matter where what normally makes up atomic nuclei has "melted". This highly energetic phase of matter exhibits collective behavior, allowing it to be modeled as a relativistic fluid. It is possible to produce QGP at particle colliders by colliding atomic nuclei, such as two lead or gold nuclei together at speeds comparable to the speed of light. This is done at terrestrial colliders, such as the Relativistic Heavy-Ion Collider (RHIC) at Brookhaven or the Large Hadron Collider (LHC) at CERN in Geneva.
 

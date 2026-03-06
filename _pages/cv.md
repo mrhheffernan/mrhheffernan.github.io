@@ -18,6 +18,35 @@ Professional Experience
   * Designed a data-collection strategy, developed fleet simulations, and built a test asset orchestration system that enabled scaling and release of the Zoox service to the public. Drove continuous improvements resulting in over 99% uptime
   * Decomposed complex problems into known statistical problems, developed prototypes, and deployed tooling to orchestrate the test vehicle fleet and deliver $25M+ of log data for safety validation and AI development
 
+Skills
+=====
+* **Probability & Statistics**  
+  * Bayesian inference, Uncertainty quantification, Experimental design, Sensitivity analysis
+* **Research**  
+  * Design of Experiments, Statistical modeling, Data Science, Data visualization, Scientific computing
+* **Programming**  
+  * Python, Bash, Linux/Unix
+  * Developing: SQL, Rust  
+  * Author of the open source [maxpro](https://github.com/mrhheffernan/maxpro) [Rust crate](https://crates.io/crates/maxpro) and [Python package](https://pypi.org/project/maxpro/)
+  * Other: Code review, Software testing, LaTeX, Markdown
+* **Tools**  
+  * Data Science
+    * Databricks, PySpark
+    * scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn, SQLAlchemy, SALib
+    * MCMC
+  * Software
+    * Git, GitHub, GitHub Actions
+    * Jupyter, Bazel, Airflow, Slurm
+    * PyO3, Rayon
+    * Wolfram Mathematica
+    * Flask, FastAPI
+* **Teaching**
+  * Pedagogical development for flipping a premier introductory physics course at McGill
+  * Lab report and exam marking
+  * Preparing tutorials
+  * Mentoring students by leading help sessions and producing reference materials ([video](https://youtu.be/C-bMMtInHOY?si=IE5KzKd5LBJ1E22X))
+
+
 Education
 =====
 * Ph.D. in Physics - *McGill University* (2022)  
@@ -42,35 +71,6 @@ Research Experience
 
 * **REU Student** - *Texas A&M University and Cyclotron Institute* (2014)  
   * National Science Foundation (US)-funded studentship under Ralf Rapp studying hot and dense hadronic matter, resulting in a state-of-the-art parametrization of thermal photon production in hadronic matter.
-
-Skills
-=====
-* **Probability & Statistics**  
-  * Bayesian inference, Uncertainty quantification, Experimental design, Sensitivity analysis
-* **Research**  
-  * Design of Experiments, Statistical modeling, Data Science, Data visualization, Scientific computing
-* **Programming**  
-  * Python, Bash, Linux/Unix
-  * Developing: SQL, Rust  
-  * Author of the open source [maxpro](https://github.com/mrhheffernan/maxpro) [Rust crate](https://crates.io/crates/maxpro) and [Python package](https://pypi.org/project/maxpro/)
-  * Other: Code review, Software testing, LaTeX, Markdown
-* **Tools**  
-  * Data Science
-    * Databricks, PySpark
-    * scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn, SQLAlchemy, SALib
-    * MCMC
-  * Software
-    * Git, GitHub, GitHub Actions
-    * Jupyter, Bazel, Airflow, Slurm
-    * PyO3, Rayon
-    * Wolfram Mathematica
-    * Flask, FastAPI
-* **Teaching**
-  ** Teaching
-    * Pedagogical development for flipping a premier introductory physics course at McGill
-    * Lab report and exam marking
-    * Preparing tutorials
-    * Leading student help sessions
 
 Publications
 ======
