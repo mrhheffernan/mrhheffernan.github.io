@@ -81,3 +81,7 @@ sectionPagesMenu = 'main'
 
 [pagination]
   pagerSize = 5
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
