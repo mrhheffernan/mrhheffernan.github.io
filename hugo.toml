@@ -60,12 +60,6 @@ sectionPagesMenu = 'main'
     url = '/academic/'
     weight = 30
 
-  [[menu.main]]
-    identifier = 'resume'
-    name = 'Resume'
-    url = '/files/matthew_heffernan_resume_2026_03_12.pdf'
-    weight = 40
-
 [taxonomies]
   category = 'categories'
   tag = 'tags'
