@@ -1,4 +1,88 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://mrhheffernan.github.io'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Matthew Heffernan'
 theme = 'risottorisotto'
+author = 'Matthew Heffernan'
+copyright = '© Matthew Heffernan'
+languageCode = 'en'
+DefaultContentLanguage = 'en'
+enableInlineShortcodes = true
+
+sectionPagesMenu = 'main'
+
+[params]
+  noindex = false
+
+[params.theme]
+  palette = 'base16-dark'
+
+[params.about]
+  title = 'Matthew Heffernan'
+  description = 'Data Scientist, Perception V&V @ Zoox'
+  # logo = ''
+
+[[params.socialLinks]]
+  icon = 'fa-brands fa-github'
+  title = 'GitHub'
+  url = 'https://github.com/mrhheffernan'
+
+[[params.socialLinks]]
+  icon = 'fa-brands fa-linkedin'
+  title = 'LinkedIn'
+  url = 'https://linkedin.com/in/mrheffernan'
+
+[[params.socialLinks]]
+  icon = 'ai ai-google-scholar'
+  title = 'Google Scholar'
+  url = 'https://scholar.google.com/citations?user=cYVEweEAAAAJ'
+
+[[params.socialLinks]]
+  icon = 'ai ai-orcid'
+  title = 'ORCID'
+  url = 'https://orcid.org/0000-0003-1410-7813'
+
+[[params.socialLinks]]
+  icon = 'fa-solid fa-envelope'
+  title = 'Email'
+  url = 'mailto:matthewh@hey.com'
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 10
+
+  [[menu.main]]
+    identifier = 'about'
+    name = 'About'
+    url = '/about/'
+    weight = 20
+
+  [[menu.main]]
+    identifier = 'academic'
+    name = 'Academic'
+    url = '/academic/'
+    weight = 30
+
+  [[menu.main]]
+    identifier = 'resume'
+    name = 'Resume'
+    url = '/files/Matthew_Heffernan_Resume_2026_03_12.pdf'
+    weight = 40
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  series = 'series'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 3
+  ordered = true
+
+[pagination]
+  pagerSize = 5

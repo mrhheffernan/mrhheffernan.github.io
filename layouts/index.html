@@ -1,0 +1,23 @@
+{{ define "main" }}
+    {{ .Content }}
+
+    {{ $posts := where .Site.RegularPages "Section" "post" }}
+    {{ $recent := $posts | first 5 }}
+    {{ if $recent }}
+    <hr>
+    <h2>Recent posts</h2>
+    {{ range $recent }}
+    <article class="post">
+        <header class="post__header">
+            <h3><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h3>
+            <p class="post__meta">
+                <span class="date">{{ .Date.Format "2 January 2006" }}</span>
+            </p>
+        </header>
+        <section class="post__summary">
+            {{ .Summary }}
+        </section>
+    </article>
+    {{ end }}
+    {{ end }}
+{{ end }}
