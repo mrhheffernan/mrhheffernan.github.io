@@ -4,7 +4,7 @@ title: "About"
 
 I am a Data Scientist at Zoox working on Perception Verification and Validation for autonomous driving.
 
-[Download my resume (PDF)](/files/Matthew_Heffernan_Resume_2026_03_12.pdf) · [LinkedIn](https://linkedin.com/in/mrheffernan)
+[Download my resume (PDF)](/files/matthew_heffernan_resume_2026_03_12.pdf) · [LinkedIn](https://linkedin.com/in/mrheffernan)
 
 ## Experience
 

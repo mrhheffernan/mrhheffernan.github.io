@@ -63,7 +63,7 @@ sectionPagesMenu = 'main'
   [[menu.main]]
     identifier = 'resume'
     name = 'Resume'
-    url = '/files/Matthew_Heffernan_Resume_2026_03_12.pdf'
+    url = '/files/matthew_heffernan_resume_2026_03_12.pdf'
     weight = 40
 
 [taxonomies]
