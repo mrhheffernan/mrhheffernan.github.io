@@ -1,3 +1,9 @@
+---
+title: "Academic"
+---
+
+Before transitioning to industry, I was a physicist - if you're looking for some deep dive topics, here you go.
+
 ## Publications
 
 **Early-times Yang-Mills dynamics and the characterization of strongly interacting matter with statistical learning**\
