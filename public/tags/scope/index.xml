@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Scope on Matthew Heffernan</title>
+		<link>https://mrhheffernan.github.io/tags/scope/</link>
+		<description>Recent content in Scope on Matthew Heffernan</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>© Matthew Heffernan</copyright>
+		
+		
+			<lastBuildDate>Tue, 07 Jul 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://mrhheffernan.github.io/tags/scope/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>`init`</title>
+				<link>https://mrhheffernan.github.io/post/2026-07-07-init/</link>
+				<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://mrhheffernan.github.io/post/2026-07-07-init/</guid>
+				<description>&lt;p&gt;Hi, I&amp;rsquo;m Matt.&lt;/p&gt;&#xA;&lt;p&gt;This blog is a collection of my writing related to my professional life and, as with anything in tech, I&amp;rsquo;m starting off with what&amp;rsquo;s in scope and what isn&amp;rsquo;t. Because I&amp;rsquo;m a Data Scientist and I build things for users, there&amp;rsquo;s also a user story or two in here.&lt;/p&gt;&#xA;&lt;h1 id=&#34;in-scope&#34;&gt;In Scope&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a Data Scientist who occasionally dabbles in some light software engineering. I started off as a physicist working with computational/statistical tools for nuclear physics and have been working in tech for a few years now. What that means is that I&amp;rsquo;ve made that academia-to-industry transition and learned many lessons along the way. Some of this writing will be what my past self wished I knew.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
